@@ -1,4 +1,4 @@
-# trainings
+# Trainings
 SOCRadar Trainings
 
 All the SOCRadar 2025 trainings-related links can be viewed from the following Wiki page:
