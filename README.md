@@ -11,9 +11,6 @@ The above material was presented in the following presentations:
 ### Introduction to Dark Web & Ransomware
 + https://academy.socradar.io/course/darkweb-monitoring-crash-course
 
-## CTI Fundamentals Training 
-+ link to the training
-
 ## Cyber Threat Intelligence Fundamentals for SOC Analysts
 + https://academy.socradar.io/course/cti-fundamentals-for-soc-analysts
 
