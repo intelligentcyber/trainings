@@ -10,6 +10,12 @@ The above material was presented in the following presentations:
 ## CTI Fundamentals Training 
 + link to the training
 
+## Cyber Threat Intelligence Fundamentals for SOC Analysts
++ https://academy.socradar.io/course/cti-fundamentals-for-soc-analysts
+
+## Mastering Cyber Threat Intelligence for SOC Analyst Training
++ https://academy.socradar.io/course/mastering-cyber-threat-intelligence-for-soc-analysts
+
 ## Mastering GenAI Tools for SOC Analysts Training
 + https://academy.socradar.io/course/masteringgenaitools4socanalysts
 
