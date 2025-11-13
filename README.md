@@ -7,5 +7,8 @@ https://github.com/intelligentcyber/trainings/wiki/All-links-related-to-SOCRadar
 
 The above material was presented in the following presentations:
 
-CTI Fundamentals Training 
+## CTI Fundamentals Training 
 + link to the training
+
+## AI Training
+SOCRadar Trainings
