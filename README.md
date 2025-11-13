@@ -7,6 +7,10 @@ https://github.com/intelligentcyber/trainings/wiki/All-links-related-to-SOCRadar
 
 The above material was presented in the following presentations:
 
+## Dark Web Crash Course - Intelligence from the Underground
+### Introduction to Dark Web & Ransomware
++ https://academy.socradar.io/course/darkweb-monitoring-crash-course
+
 ## CTI Fundamentals Training 
 + link to the training
 
