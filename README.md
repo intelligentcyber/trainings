@@ -16,10 +16,10 @@ The above material was presented in the following presentations:
 ## Prompts for Report Generation using SOCRadar's MCP Server
 I  would like to prepare a Dark Web Monitoring Report using SOCRadar MCP connector integration.
 
-Duration: October 2025 
-Tenant ID: 330 
-Tenant Name: GreenAnimalsBank 
-GreenAnimalsBank.com
++ Duration: October 2025
++ Tenant ID: 330
++ Tenant Name: GreenAnimalsBank
++ GreenAnimalsBank.com
 
 Report sections: 
 1. Executive Summary - Key findings and risk overview 
