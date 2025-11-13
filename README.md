@@ -10,5 +10,25 @@ The above material was presented in the following presentations:
 ## CTI Fundamentals Training 
 + link to the training
 
-## AI Training
-SOCRadar Trainings
+## Mastering GenAI Tools for SOC Analysts Training
++ https://academy.socradar.io/course/masteringgenaitools4socanalysts
+
+## Prompts for Report Generation using SOCRadar's MCP Server
+I  would like to prepare a Dark Web Monitoring Report using SOCRadar MCP connector integration.
+
+Duration: October 2025 
+Tenant ID: 330 
+Tenant Name: GreenAnimalsBank 
+GreenAnimalsBank.com
+
+Report sections: 
+1. Executive Summary - Key findings and risk overview 
+2. Monitored Assets Overview - DRP configuration and coverage 
+3. Dark Web Marketplace Intelligence - Asset pricing and trading activity 
+4. Compromised Credentials Analysis - Botnet data and leaked credentials with source URLs 
+5. Sensitive Data Exposure - PII, IM content, and VIP protection findings 
+6. Threat Intelligence - Suspicious content and keyword monitoring results 
+7. Malware & Infection Intelligence - Botnet infections and malware exposure 
+8. Remediation Recommendations - Prioritized actions 
+9. Technical Appendix - Detailed IOCs and technical data 
+Provide me the report in .md format
