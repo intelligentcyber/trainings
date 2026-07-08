@@ -3,7 +3,7 @@ SOCRadar Trainings
 
 All the SOCRadar trainings-related links can be viewed from the following Wiki page:
 
-https://github.com/intelligentcyber/trainings/wiki/All-links-related-to-SOCRadar-Trainings-in-2025
+https://github.com/intelligentcyber/trainings/wiki/All-links-related-to-SOCRadar-Trainings-and-Webinars
 
 The above material was presented in the following presentations:
 
